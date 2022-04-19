@@ -3,6 +3,7 @@ body{
 	font-family: helvetica, Arial, sans-serif;
 	font-size: 17px;
 	line-height: 25px;
+	background-color: #ffffff;
 }
 
 header{
@@ -60,6 +61,7 @@ footer{
 	text-align: center;
 	color: white;
 	padding: 10px;
+
 }
 
 footer p{
@@ -82,14 +84,3 @@ p.caption{
 	margin-top: 0;
 	text-align: right;
 }
-
-
-
-
-
-
-
-
-
-
-
