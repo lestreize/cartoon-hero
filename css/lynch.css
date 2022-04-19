@@ -21,9 +21,8 @@ h1, h2{
 header h1{
 	color: white;
 	font-family: helvetica, Arial, sans-serif;
-	font-family: 'Square Peg', cursive;
 	font-size: 70px;
-
+	font-family: 'Square Peg', cursive;
 }
 
 header img{
